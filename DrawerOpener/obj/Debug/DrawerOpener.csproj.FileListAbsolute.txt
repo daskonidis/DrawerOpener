@@ -1,0 +1,8 @@
+D:\Projects\DrawerOpener\DrawerOpener\bin\Debug\DrawerOpener.exe.config
+D:\Projects\DrawerOpener\DrawerOpener\bin\Debug\DrawerOpener.exe
+D:\Projects\DrawerOpener\DrawerOpener\bin\Debug\DrawerOpener.pdb
+D:\Projects\DrawerOpener\DrawerOpener\obj\Debug\DrawerOpener.csprojResolveAssemblyReference.cache
+D:\Projects\DrawerOpener\DrawerOpener\obj\Debug\DrawerOpener.Properties.Resources.resources
+D:\Projects\DrawerOpener\DrawerOpener\obj\Debug\DrawerOpener.csproj.GenerateResource.Cache
+D:\Projects\DrawerOpener\DrawerOpener\obj\Debug\DrawerOpener.exe
+D:\Projects\DrawerOpener\DrawerOpener\obj\Debug\DrawerOpener.pdb
